@@ -25,7 +25,7 @@ The dashboard provides insights into:
 - Monthly revenue trends
 
 ## 📷 Dashboard Preview
-(Add screenshot here after uploading image)
+![Dashboard](dashboard.png)
 
 ## 📂 Files Included
 - Coffee Shop Sales Dashboard.pbix
